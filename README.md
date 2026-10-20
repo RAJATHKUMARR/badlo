@@ -16,4 +16,4 @@ In the app: Settings → Report a problem. Or use the form on [the website](http
 
 ---
 
-This repository holds Badlo's releases. Made by Rajath in Shimoga, India.
+This repository holds Badlo's releases. Made by Rajath in India.
